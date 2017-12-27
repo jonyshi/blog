@@ -1,12 +1,22 @@
-# Charles
+# Charles4.0.1 破解版安装使用
 
+Charles 下载
+百度盘下载: https://pan.baidu.com/s/1bVGcVG
+提取码:23hy
+ 
 一、安装Charles
-下载地址：https://github.com/OwenJoe/Charles4.0.1.git
 破解教程:
 1.打开dmg镜像，将“Charles.app”拖入应用程序中；
+
 2.打开应用程序—右键“Charles.app”显示包内容—Contents—Java
-3.将dmg镜像包内的“charles.jar”替换覆盖到第二步的Java文件夹中；
-4.打开“Charles.app”，等待30秒，菜单栏中找到“Help”—“Register…”，输入任意信息完成注册；
+
+3.将dmg镜像包内的“charles.jar”替换覆盖到第
+
+二步的Java文件夹中；
+
+4.打开“Charles.app”，等待30秒，菜单栏中找到“Help”—“Register…”，输入任意信息完成注
+册；
+
 5.Have done！
 
 二、使用
