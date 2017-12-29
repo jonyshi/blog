@@ -1,0 +1,6 @@
+# blog gh-pages
+
+stone
+
+....
+
