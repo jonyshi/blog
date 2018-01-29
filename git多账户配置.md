@@ -49,7 +49,7 @@
     
     git clone git@github.com:xx/project1.git
      
-    git clone git@work.com:xx/project2.git [aa cc]
+    git clone git@work.com:xx/project2.git [aa cc d]
       
     eg:
     github clone地址如:
