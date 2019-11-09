@@ -6,9 +6,9 @@
 
  - [Charles4.0.1破解版安装使用](./Charles4.0.1.md)
 
- - [git多账户配置](git多账户配置.md)
+ - [git多账户配置](./git多账户配置.md)
 
- - [gvsCode工具大全](gvsCode工具大全.md)
+ - [gvsCode工具大全](./gvsCode工具大全.md)
 
 ## 二、css 整理部分
 
